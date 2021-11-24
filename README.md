@@ -58,7 +58,7 @@ Filter vine dataframe to create tables that grab rows with 20 or more votes, 50%
 
 ### Looking Deeper:
 
-All of these had at least 20 or more votes, with 50% or more of those votes marked as helpful. There was a total of 30,765 5* reviews given.
+All of the dataframes counted only reviews that had at least 20 or more votes, with 50% or more of those votes marked as helpful. There was a total of 30,765 5* reviews given.
 
 ![image](https://raw.githubusercontent.com/li-emily/Amazon_Vine_Analysis/main/Resources/Images/d2_5_reviews.png)
 
@@ -66,18 +66,17 @@ All of these had at least 20 or more votes, with 50% or more of those votes mark
 
 ![image](https://raw.githubusercontent.com/li-emily/Amazon_Vine_Analysis/main/Resources/Images/d2_5_unpaid.png)
 
-Vine Reviews:
+Vine (paid) Reviews:
 
 - 613 paid reviews overall
 - 222 5* reviews
 - 36.2% of paid reviews were 5* ratings
 
-Non-vine reviews:
+Non-vine (unpaid) reviews:
 
 - 64,968 unpaid reviews overall
 - 30,543 5* reviews
 - 47% of unpaid reviews were 5* ratings
-
 
 ## Summary
 
